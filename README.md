@@ -11,3 +11,11 @@ boost, LFH등과의 성능 비교 결과 등... <br>
 해당 자료구조를 구현하면서 메모리 디버깅을 한 과정에 대한 설명과 그 증거자료 등... - 추가중 <br>
 <br>
 <br>
+# IOCP 모델 (https://github.com/YoungWoo93/chattingServer_single)
+windows의 IOCP 를 이용한 채팅 서버 구현체 - 추가중 <br>
+<br>
+<br>
+# ETC
+직렬화 버퍼  - 추가중
+로그인 서버  - 추가중
+알고리즘 풀이  - 추가중
